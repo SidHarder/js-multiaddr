@@ -11,5 +11,5 @@ code	size	name
 480	0	http
 443	0	https
 477	0	ws
-444	10	onion
+444	96	onion
 275 0 libp2p-webrtc-star
